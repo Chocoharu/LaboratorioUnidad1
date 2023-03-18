@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive - Universidad de Talca\Documentos\Algoritmo y BD\LaboratorioUnidad1\labsemana1_ejercicio7\obj\Debug\net7.0\labsemana1_ejercicio7.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive - Universidad de Talca\Documentos\Algoritmo y BD\LaboratorioUnidad1\labsemana1_ejercicio7\obj\Debug\net7.0\labsemana1_ejercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - Universidad de Talca\Documentos\Algoritmo y BD\LaboratorioUnidad1\labsemana1_ejercicio7\obj\Debug\net7.0\labsemana1_ejercicio7.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - Universidad de Talca\Documentos\Algoritmo y BD\LaboratorioUnidad1\labsemana1_ejercicio7\obj\Debug\net7.0\labsemana1_ejercicio7.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - Universidad de Talca\Documentos\Algoritmo y BD\LaboratorioUnidad1\labsemana1_ejercicio7\obj\Debug\net7.0\labsemana1_ejercicio7.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - Universidad de Talca\Documentos\Algoritmo y BD\LaboratorioUnidad1\labsemana1_ejercicio7\bin\Debug\net7.0\labsemana1_ejercicio7.exe
+C:\Users\Usuario\OneDrive - Universidad de Talca\Documentos\Algoritmo y BD\LaboratorioUnidad1\labsemana1_ejercicio7\bin\Debug\net7.0\labsemana1_ejercicio7.deps.json
+C:\Users\Usuario\OneDrive - Universidad de Talca\Documentos\Algoritmo y BD\LaboratorioUnidad1\labsemana1_ejercicio7\bin\Debug\net7.0\labsemana1_ejercicio7.runtimeconfig.json
+C:\Users\Usuario\OneDrive - Universidad de Talca\Documentos\Algoritmo y BD\LaboratorioUnidad1\labsemana1_ejercicio7\bin\Debug\net7.0\labsemana1_ejercicio7.dll
+C:\Users\Usuario\OneDrive - Universidad de Talca\Documentos\Algoritmo y BD\LaboratorioUnidad1\labsemana1_ejercicio7\bin\Debug\net7.0\labsemana1_ejercicio7.pdb
+C:\Users\Usuario\OneDrive - Universidad de Talca\Documentos\Algoritmo y BD\LaboratorioUnidad1\labsemana1_ejercicio7\obj\Debug\net7.0\labsemana1_ejercicio7.dll
+C:\Users\Usuario\OneDrive - Universidad de Talca\Documentos\Algoritmo y BD\LaboratorioUnidad1\labsemana1_ejercicio7\obj\Debug\net7.0\refint\labsemana1_ejercicio7.dll
+C:\Users\Usuario\OneDrive - Universidad de Talca\Documentos\Algoritmo y BD\LaboratorioUnidad1\labsemana1_ejercicio7\obj\Debug\net7.0\labsemana1_ejercicio7.pdb
+C:\Users\Usuario\OneDrive - Universidad de Talca\Documentos\Algoritmo y BD\LaboratorioUnidad1\labsemana1_ejercicio7\obj\Debug\net7.0\labsemana1_ejercicio7.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - Universidad de Talca\Documentos\Algoritmo y BD\LaboratorioUnidad1\labsemana1_ejercicio7\obj\Debug\net7.0\ref\labsemana1_ejercicio7.dll
